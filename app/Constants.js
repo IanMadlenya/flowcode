@@ -1,0 +1,5 @@
+export default {
+    UPDATE_CODE: "UPDATE_CODE",
+    SET_SYNTAX_ERRORS: "SET_SYNTAX_ERRORS",
+    UPDATE_AST: "UPDATE_AST"
+}
